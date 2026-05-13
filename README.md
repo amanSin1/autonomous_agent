@@ -37,7 +37,7 @@ insurance_agent/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/insurance-claims-agent.git
+git remote add origin https://github.com/amanSin1/autonomous_agent.git
 cd insurance-claims-agent
 ```
 
