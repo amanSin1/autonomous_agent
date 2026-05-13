@@ -1,0 +1,44 @@
+FIRST NOTICE OF LOSS
+
+POLICY INFORMATION
+------------------
+Policy Number: AUTO-2024-771234
+Policyholder Name: Angela K. Brooks
+Effective Dates: 03/15/2024 - 03/14/2025
+
+INCIDENT INFORMATION
+--------------------
+Date of Loss: June 2, 2024
+Time of Loss: 8:20 AM
+Location: 500 Oak Avenue, Chicago, IL 60601
+Description: Insured vehicle was T-boned at an intersection by a vehicle that ran a red light. Airbags deployed. Insured sustained whiplash and was transported to Northwestern Memorial Hospital for evaluation.
+
+INVOLVED PARTIES
+----------------
+Claimant: Angela K. Brooks
+Phone: (312) 555-0841
+Email: angela.brooks@email.com
+
+Third Party: Robert G. Chen
+Phone: (312) 555-0922
+Insurance: Progressive, Policy #PRG-20241102
+
+ASSET DETAILS
+-------------
+Asset Type: Automobile
+Year: 2022
+Make: Ford
+Model: Explorer
+VIN: 1FM5K8D85NGA12456
+Plate Number: IL - MKL 5590
+Damage Description: Entire driver-side damage, airbag deployment, frame possibly bent.
+Estimated Damage: $35,000
+
+OTHER
+-----
+Claim Type: Bodily Injury
+Report Number: CPD-2024-06-4455
+Attachments: hospital_report.pdf, accident_photos.zip
+Initial Estimate: $35,000
+Carrier: State Farm
+Agency: Chicago Metro Insurance

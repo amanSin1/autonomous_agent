@@ -1,0 +1,208 @@
+[
+  {
+    "file": "fnol_001_fast_track.txt",
+    "extractedFields": {
+      "policy_information": {
+        "policy_number": "AUTO-2024-887432",
+        "policyholder_name": "James R. Mitchell",
+        "effective_date_start": "01/01/2024",
+        "effective_date_end": "12/31/2024"
+      },
+      "incident_information": {
+        "date_of_loss": "March 15, 2024",
+        "time_of_loss": "2:35 PM",
+        "location": "142 Maple Street, Columbus, OH 43215",
+        "description": "Insured vehicle was rear-ended while stopped at a red light at the intersection of Maple St and 5th Ave. The other driver failed to brake in time and collided with the rear bumper. No injuries reported. Police were called and a report was filed."
+      },
+      "involved_parties": {
+        "claimant_name": "James R. Mitchell",
+        "claimant_contact": "(614) 555-0192",
+        "third_parties": [
+          {
+            "name": "Sarah T. Collins",
+            "contact": "(614) 555-0384",
+            "insurance": "State Farm, Policy #SF-99021"
+          }
+        ],
+        "driver_name": null,
+        "driver_license": null,
+        "owner_name": "James R. Mitchell"
+      },
+      "asset_details": {
+        "asset_type": "Automobile",
+        "make": "Toyota",
+        "model": "Camry",
+        "year": "2021",
+        "vin": "1HGBH41JXMN109186",
+        "plate_number": "OH - GHT 4421",
+        "damage_description": "Rear bumper cracked, trunk lid dented, rear tail lights broken.",
+        "estimated_damage": "$8,500"
+      },
+      "other": {
+        "claim_type": "Property Damage",
+        "report_number": "CPD-2024-03-1142",
+        "attachments": [
+          "police_report.pdf",
+          "photos_damage.zip"
+        ],
+        "initial_estimate": "$8,500",
+        "carrier": "Nationwide Insurance",
+        "agency": "Midwest Insurance Group"
+      }
+    },
+    "missingFields": [],
+    "recommendedRoute": "Fast-track",
+    "reasoning": "All mandatory fields present and estimated damage ($8,500.00) is below the $25,000 threshold."
+  },
+  {
+    "file": "fnol_002_missing_fields.txt",
+    "extractedFields": {
+      "policy_information": {
+        "policy_number": "HO-2024-334211",
+        "policyholder_name": "Linda A. Torres",
+        "effective_date_start": null,
+        "effective_date_end": null
+      },
+      "incident_information": {
+        "date_of_loss": "April 3, 2024",
+        "time_of_loss": "Unknown",
+        "location": "Somewhere on I-70 westbound",
+        "description": "Vehicle sustained damage after hitting a pothole at highway speed. Driver did not notice the damage until arriving at destination."
+      },
+      "involved_parties": {
+        "claimant_name": "Linda A. Torres",
+        "claimant_contact": "(303) 555-0771",
+        "third_parties": [],
+        "driver_name": null,
+        "driver_license": null,
+        "owner_name": null
+      },
+      "asset_details": {
+        "asset_type": "Automobile",
+        "make": "Honda",
+        "model": "Civic",
+        "year": "2019",
+        "vin": null,
+        "plate_number": "CO - XYZ 9910",
+        "damage_description": "Front right tire blown out, rim bent, possible suspension damage.",
+        "estimated_damage": null
+      },
+      "other": {
+        "claim_type": "Property Damage",
+        "report_number": null,
+        "attachments": [],
+        "initial_estimate": null,
+        "carrier": "Geico",
+        "agency": "Denver Auto Insurance"
+      }
+    },
+    "missingFields": [
+      "asset_details.estimated_damage",
+      "other.initial_estimate"
+    ],
+    "recommendedRoute": "Manual Review",
+    "reasoning": "The following mandatory fields are missing: ['asset_details.estimated_damage', 'other.initial_estimate']. Human review required."
+  },
+  {
+    "file": "fnol_003_fraud_flag.txt",
+    "extractedFields": {
+      "policy_information": {
+        "policy_number": "AUTO-2024-556001",
+        "policyholder_name": "Derek M. Fowler",
+        "effective_date_start": "02/01/2024",
+        "effective_date_end": "01/31/2025"
+      },
+      "incident_information": {
+        "date_of_loss": "May 10, 2024",
+        "time_of_loss": "11:45 PM",
+        "location": "88 Dark Alley Road, Newark, NJ 07102",
+        "description": "Claimant reports vehicle was struck by another car. However, witness statements appear inconsistent with the physical damage pattern. Investigator notes suggest the incident may have been staged to claim insurance money. Damage appears pre-existing and inconsistent with claimed impact direction."
+      },
+      "involved_parties": {
+        "claimant_name": "Derek M. Fowler",
+        "claimant_contact": "(973) 555-0293",
+        "third_parties": [],
+        "driver_name": null,
+        "driver_license": null,
+        "owner_name": null
+      },
+      "asset_details": {
+        "asset_type": "Automobile",
+        "make": "BMW",
+        "model": "3 Series",
+        "year": "2018",
+        "vin": "WBA8E9G58GNT43962",
+        "plate_number": "NJ - RFD 1123",
+        "damage_description": "Entire left side panel damage, broken windows.",
+        "estimated_damage": "$22,000"
+      },
+      "other": {
+        "claim_type": "Property Damage",
+        "report_number": "NJPD-2024-884",
+        "attachments": [],
+        "initial_estimate": "$22,000",
+        "carrier": "Allstate",
+        "agency": "Newark Insurance Brokers"
+      }
+    },
+    "missingFields": [],
+    "recommendedRoute": "Investigation Flag",
+    "reasoning": "Description contains fraud-indicator keyword(s): ['inconsistent', 'staged']. Routed for investigation."
+  },
+  {
+    "file": "fnol_004_injury.txt",
+    "extractedFields": {
+      "policy_information": {
+        "policy_number": "AUTO-2024-771234",
+        "policyholder_name": "Angela K. Brooks",
+        "effective_date_start": "03/15/2024",
+        "effective_date_end": "03/14/2025"
+      },
+      "incident_information": {
+        "date_of_loss": "June 2, 2024",
+        "time_of_loss": "8:20 AM",
+        "location": "500 Oak Avenue, Chicago, IL 60601",
+        "description": "Insured vehicle was T-boned at an intersection by a vehicle that ran a red light. Airbags deployed. Insured sustained whiplash and was transported to Northwestern Memorial Hospital for evaluation."
+      },
+      "involved_parties": {
+        "claimant_name": "Angela K. Brooks",
+        "claimant_contact": "Phone: (312) 555-0841, Email: angela.brooks@email.com",
+        "third_parties": [
+          {
+            "name": "Robert G. Chen",
+            "contact": "(312) 555-0922",
+            "insurance_carrier": "Progressive",
+            "insurance_policy_number": "PRG-20241102"
+          }
+        ],
+        "driver_name": "Angela K. Brooks",
+        "driver_license": null,
+        "owner_name": "Angela K. Brooks"
+      },
+      "asset_details": {
+        "asset_type": "Automobile",
+        "make": "Ford",
+        "model": "Explorer",
+        "year": "2022",
+        "vin": "1FM5K8D85NGA12456",
+        "plate_number": "IL - MKL 5590",
+        "damage_description": "Entire driver-side damage, airbag deployment, frame possibly bent.",
+        "estimated_damage": "$35,000"
+      },
+      "other": {
+        "claim_type": "Bodily Injury",
+        "report_number": "CPD-2024-06-4455",
+        "attachments": [
+          "hospital_report.pdf",
+          "accident_photos.zip"
+        ],
+        "initial_estimate": "$35,000",
+        "carrier": "State Farm",
+        "agency": "Chicago Metro Insurance"
+      }
+    },
+    "missingFields": [],
+    "recommendedRoute": "Specialist Queue",
+    "reasoning": "Claim type is 'bodily injury', which requires a specialist handler for injury claims."
+  }
+]

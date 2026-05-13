@@ -1,0 +1,44 @@
+FIRST NOTICE OF LOSS - AUTOMOBILE CLAIM
+
+POLICY INFORMATION
+------------------
+Policy Number: AUTO-2024-887432
+Policyholder Name: James R. Mitchell
+Policy Effective Date: 01/01/2024 - 12/31/2024
+
+INCIDENT INFORMATION
+--------------------
+Date of Loss: March 15, 2024
+Time of Loss: 2:35 PM
+Location: 142 Maple Street, Columbus, OH 43215
+Description: Insured vehicle was rear-ended while stopped at a red light at the intersection of Maple St and 5th Ave. The other driver failed to brake in time and collided with the rear bumper. No injuries reported. Police were called and a report was filed.
+
+INVOLVED PARTIES
+----------------
+Claimant: James R. Mitchell
+Phone: (614) 555-0192
+Email: james.mitchell@email.com
+
+Third Party Driver: Sarah T. Collins
+Phone: (614) 555-0384
+Insurance: State Farm, Policy #SF-99021
+
+ASSET DETAILS
+-------------
+Asset Type: Automobile
+Year: 2021
+Make: Toyota
+Model: Camry
+VIN: 1HGBH41JXMN109186
+Plate Number: OH - GHT 4421
+Damage Description: Rear bumper cracked, trunk lid dented, rear tail lights broken.
+Estimated Damage: $8,500
+
+OTHER
+-----
+Claim Type: Property Damage
+Police Report Number: CPD-2024-03-1142
+Attachments: police_report.pdf, photos_damage.zip
+Initial Estimate: $8,500
+Carrier: Nationwide Insurance
+Agency: Midwest Insurance Group
